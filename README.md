@@ -2,6 +2,12 @@
 <head></head>
 
   <body>
+    
+  <h3>ABOUT</h3>
+  <p><b></b>.NET Framework 3.5 Offline Installer.</b><br/>
+  This program created based on Windows 10 version 1909, OS Build 18363.418.
+  </p>
+  
   <h3>NOTES</h3>
     <ol>
       <li>Make sure to run the App.bat as administrator.</li>
