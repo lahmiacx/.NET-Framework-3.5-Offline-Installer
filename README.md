@@ -15,7 +15,11 @@
     </ol>
 
   <h3>INSTRUCTIONS</h3>
-  <p>If you have .NET Framework 3.5 from your own fresh Windows 10 ISO, you could copy those files to Data\x64 or Data\ x86 according to your device architecture. Make sure to move or delete the old data from that folder before. Then you could run the App.bat.</p>
+  <p>If you have .NET Framework 3.5 from your own fresh Windows 10 ISO, you could copy those files to Data\x64 or Data\ x86 according to your device architecture. Make sure to move or delete the old data from that folder before. Then you could run the App.bat.
+  <br/><br/>
+  You could find specific files in "sources\sxs" inside Windows 10 ISO.
+  <br/>
+  </p>
 
   <h3>DISCLAIMER</h3>
   <p>.NET Framework 3.5 belongs to Microsoft, I just write the program to install it easier without need to access command prompt and write DISM script manually.</p>
